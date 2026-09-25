@@ -8,10 +8,7 @@
   <a href="https://github.com/samadhi-hansika">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:samadhihansika457@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -20,7 +17,7 @@
 
 ## About Me
 
-🎓 Software Engineering Undergraduate from Sri Lanka.
+🎓 Software Engineering Undergraduate | CINEC Campus, Sri Lanka.
 
 💻 Interested in web application development, software engineering, and modern technologies.
 
@@ -189,8 +186,7 @@ A responsive cinema-themed frontend prototype for browsing movies with search an
 
 <p align="center">
   <a href="https://github.com/samadhi-hansika">GitHub</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="mailto:samadhihansika457@gmail.com">Email</a>
 </p>
 
 <p align="center">
