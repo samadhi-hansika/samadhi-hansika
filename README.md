@@ -173,18 +173,6 @@ A responsive cinema-themed frontend prototype for browsing movies with search an
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samadhi-hansika&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samadhi-hansika&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## Connect With Me
 
 <p align="center">
