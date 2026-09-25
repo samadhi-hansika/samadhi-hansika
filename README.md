@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi 👋 I'm Samadhi Hansika
 
-<!--
-**samadhi-hansika/samadhi-hansika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Undergraduate  
+💻 Aspiring Full-Stack Developer  
+🌱 Passionate about building real-world software solutions  
+Sri Lanka
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineering undergraduate interested in
+Web Development, Software Engineering and UI/UX Design.
+
+I enjoy building practical applications and learning
+new technologies through real-world projects.
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+
+### Backend & Database
+- PHP
+- Firebase
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Figma
+
+## 🚀 Featured Projects
+
+### ♻️ KUNULINK
+Smart Waste Collection and Recycling Request Portal.
+
+### 🚗 ParkLink
+Smart Parking Management System.
+
+### 🛒 Soft-Mart
+Software Blueprint Marketplace.
+
+### 🌾 RiceLink
+Paddy Farmer and Purchase Management System.
+
+### 🤖 ChatBot
+JavaScript-based chatbot for learning programming concepts.
+
+## 📚 Currently Learning
+
+- React
+- Firebase
+- Backend Development
+- Software Architecture
+- Advanced Web Development
+
+## 📊 GitHub Activity
+
+I regularly work on academic projects,
+personal projects and software development exercises.
+
+## 📫 Connect With Me
+
+- GitHub: [samadhi-hansika](https://github.com/samadhi-hansika)
+- Email: samadhihansika457@gmail.com
